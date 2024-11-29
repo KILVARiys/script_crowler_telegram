@@ -5,9 +5,9 @@ from datetime import datetime
 import os
 
 # Конфигурация Telegram API
-API_ID = '26953437'
-API_HASH = 'a119dc9c89f2358ebd2bbb0006bb63a0'
-PHONE_NUMBER = '+380500193381'
+API_ID = 'your API_ID'
+API_HASH = 'your API_HASH'
+PHONE_NUMBER = 'your NUMBER'
 
 # Путь к файлу базы данных SQLite
 DB_PATH = 'telegram_data.db'
